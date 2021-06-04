@@ -11,11 +11,11 @@
 
 <h2>A little bit about me...</h2>
 
-- 👀 I'm currently looking for new opportunities as a Junior Developer
-- 💪 Always challenging myself and learning new skills
-- ⚽️ Sports fanatic
-- 📖 Currently reading: Eloquent JavaScript
-- 📚 Learning: TypeScript
+- 👀  I'm currently looking for new opportunities as a Junior Developer
+- 💪  Always challenging myself and learning new skills
+- ⚽️  Sports fanatic
+- 📖  Currently reading: Eloquent JavaScript
+- 📚  Learning: TypeScript
 - 🎧  Listening to: The Teskey Brothers
 
 ---
@@ -43,7 +43,6 @@
 ---
 
 <p align="center">
-<!--   <img width="48%" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hugokinahan&show_icons=true&theme=tokyonight" /> -->
   <img width="48%" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hugokinahan&theme=tokyonight" />
 </p>
 
