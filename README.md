@@ -13,7 +13,7 @@
 
 <h2>A little bit about me...</h2>
 
-- 👀  I'm currently looking for new opportunities as a Junior Developer [📧](mailto:hugokinahan@hotmail.com?subject=[GitHub]Hello Hugo!)
+- 👀  I'm currently looking for new opportunities as a Junior Developer [📧](mailto:hugokinahan@hotmail.com?subject=[GitHub]Hello%20Hugo!)
 - 💪  Always challenging myself and learning new skills
 - ⚽️  Sports fanatic
 - 📖  Currently reading: Eloquent JavaScript
