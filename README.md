@@ -55,6 +55,6 @@
 </p>
 
 
-[website]:  https://hugokinahan.com
-[twitter]: https://twitter.com/BestOfKin
-[linkedin]: https://linkedin.com/in/hugokinahan
+[website]:  https://www.hugokinahan.com
+[twitter]: https://twitter.com/BestOfKin_
+[linkedin]: https://linkedin.com/in/hugo-kinahan
