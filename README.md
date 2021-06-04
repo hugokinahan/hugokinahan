@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/badge/-Portfolio-red?style=flat&labelColor=red&logo=WebAuthn&logoColor=white)][website]
 [![Twitter Follow](https://img.shields.io/badge/-@BestOfKin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)][twitter]
-[![Linkedin Follow](https://img.shields.io/badge/-Alberto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
+[![Linkedin Follow](https://img.shields.io/badge/-Hugo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
 ![img](https://www.codewars.com/users/hugokinahan/badges/micro)
 
 ---
@@ -50,8 +50,8 @@
 ---
 
 <p align="center">
-  <img width="48%" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=albertocerrone&show_icons=true&theme=tokyonight" />
-  <img width="48%" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=albertocerrone&theme=tokyonight" />
+  <img width="48%" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hugokinahan&show_icons=true&theme=tokyonight" />
+  <img width="48%" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hugokinahan&theme=tokyonight" />
 </p>
 
 
