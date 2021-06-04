@@ -1,21 +1,22 @@
 # Hi I'm Hugo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-
+[![Linkedin Follow](https://img.shields.io/badge/-Hugo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
 [![Twitter Follow](https://img.shields.io/badge/-Portfolio-red?style=flat&labelColor=red&logo=WebAuthn&logoColor=white)][website]
 [![Twitter Follow](https://img.shields.io/badge/-@BestOfKin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)][twitter]
-[![Linkedin Follow](https://img.shields.io/badge/-Hugo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
 ![img](https://www.codewars.com/users/hugokinahan/badges/micro)
 
 ---
 
-## I'm a Junior Developer looking for opportunities 🏼‍💻!!
+## I'm a Junior Developer and TA @ General Assembly 👨‍💻
 
-- 🥊 I'm always looking for a new challenge, 
-- ⚡ Fun fact: I'm a sports fanatic ⚽️ 
-- 🔭 Currently learning: TypeScript
-- 📖 Currently Reading: Eloquent JavaScript
+<h2>A little bit about me...</h2>
 
-<!-- ### Spotify Playing 🎧 -->
+- 👀 I'm currently looking for new opportunities as a Junior Developer
+- 💪 Always challenging myself and learning new skills
+- ⚽️ Sports fanatic
+- 📖 Currently reading: Eloquent JavaScript
+- 📚 Learning: TypeScript
+- 🎧  Listening to: The Teskey Brothers
 
 ---
 
