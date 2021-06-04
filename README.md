@@ -13,7 +13,7 @@
 
 <h2>A little bit about me...</h2>
 
-- 👀  I'm currently looking for new opportunities as a Junior Developer
+- 👀  I'm currently looking for new opportunities as a Junior Developer [Dr. Ken Lunde](mailto:hugokinahan@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 💪  Always challenging myself and learning new skills
 - ⚽️  Sports fanatic
 - 📖  Currently reading: Eloquent JavaScript
