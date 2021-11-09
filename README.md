@@ -1,4 +1,4 @@
-# Hi, I'm Hugo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <img src='https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif' />
 
@@ -10,16 +10,15 @@
 
 ---
 
-## I'm a Junior Developer and TA @ General Assembly 👨‍💻
+## Junior Developer 👨‍💻
 
 <h2>A little bit about me...</h2>
 
-- 👀  I'm currently looking for new opportunities as a Junior Developer [📧](mailto:hugokinahan@hotmail.com?subject=[GitHub]Hello%20Hugo!)
+ [📧](mailto:hugokinahan@hotmail.com?subject=[GitHub]Hello%20Hugo!)
 - 💪  Always challenging myself and learning new skills
 - ⚽️  Sports fanatic
 - 📖  Currently reading: Eloquent JavaScript
-- 📚  Learning: TypeScript
-- 🎧  Listening to: The Teskey Brothers
+- 📚  Learning: PHP
 
 ---
 
