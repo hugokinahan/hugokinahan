@@ -10,7 +10,7 @@
 
 ---
 
-## Junior Developer 👨‍💻
+## Software Developer 👨‍💻
 
 <h2>A little bit about me...</h2>
 
@@ -18,7 +18,7 @@
 - 💪  Always challenging myself and learning new skills
 - ⚽️  Sports fanatic
 - 📖  Currently reading: Eloquent JavaScript
-- 📚  Learning: PHP
+- 📚  Learning: TypeScript
 
 ---
 
@@ -48,7 +48,4 @@
   <img width="48%" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hugokinahan&theme=tokyonight" />
 </p>
 
-
-[website]:  http://hugokinahan.com/
-[twitter]: https://twitter.com/BestOfKin_
 [linkedin]: https://linkedin.com/in/hugo-kinahan
