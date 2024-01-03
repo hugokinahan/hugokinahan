@@ -3,8 +3,6 @@
 <img src='https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif' />
 
 [![Linkedin Follow](https://img.shields.io/badge/-HugoKinahan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
-[![Twitter Follow](https://img.shields.io/badge/-Portfolio-red?style=flat&labelColor=red&logo=WebAuthn&logoColor=white)][website]
-[![Twitter Follow](https://img.shields.io/badge/-@BestOfKin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)][twitter]
 ![img](https://www.codewars.com/users/hugokinahan/badges/micro)
 [📧](mailto:hugokinahan@hotmail.com?subject=[GitHub]Hello%20Hugo!)
 
