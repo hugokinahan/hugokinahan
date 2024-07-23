@@ -1,22 +1,3 @@
-# Hi! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-<img src='https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif' />
-
-[![Linkedin Follow](https://img.shields.io/badge/-HugoKinahan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
-![img](https://www.codewars.com/users/hugokinahan/badges/micro)
-[📧](mailto:hugokinahan@hotmail.com?subject=[GitHub]Hello%20Hugo!)
-
----
-
-## Software Developer 👨‍💻
-
-<h2>A little bit about me...</h2>
-
- [📧](mailto:hugokinahan@hotmail.com?subject=[GitHub]Hello%20Hugo!)
-- 💪  Always challenging myself and learning new skills
-- ⚽️  Sports fanatic
-- 📖  Currently reading: Eloquent JavaScript
-- 📚  Learning: TypeScript
 
 ---
 
